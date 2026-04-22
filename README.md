@@ -1,5 +1,5 @@
 # Jade Clicker
-A C# and autoclicker designed for Minecraft. 
+A C++ autoclicker designed for Minecraft. 
 
 
 THIS IS A PROJECT FOR FUN, DO NOT CHEAT ON MINECRAFT SERVERS WITHOUT PERMISSION. IT IS NOT INTENDED TO BE USED AS A CHEAT
